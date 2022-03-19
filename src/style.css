@@ -1,1 +1,9 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+
+.red {
+  color: red;
+}
+
+.black {
+  color: black;
+}
